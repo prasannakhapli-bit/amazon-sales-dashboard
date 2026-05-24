@@ -37,3 +37,19 @@ It provides:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌍 Live Demo
+
+👉 https://amazon-sales-dashboard-ls48dc8pcujhcvehke97kg.streamlit.app/
+
+This is a deployed Streamlit web application for interactive sales analytics and AI-based forecasting.
+Users can explore trends, filter data dynamically, and view predictive insights powered by machine learning.
+
+## 💡 Author
+
+Created by Prasanna Vijay Khapli  
+
+🔗 GitHub: https://github.com/prasannakhapli-bit/  
+🔗 LinkedIn: linkedin.com/in/prasanna-khapli-489424101 
+
+Passionate about Data Analytics, AI, and building real-world data-driven applications.
