@@ -60,7 +60,7 @@ This is a production-ready Streamlit web application for interactive sales analy
 
 Created by Prasanna Vijay Khapli  
 
-🔗 GitHub: https://github.com/prasannakhapli-bit/  
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/prasanna-khapli-489424101/)
+🔗 GitHub: https://github.com/prasannakhapli-bit/
+🔗 LinkedIn: https://www.linkedin.com/in/prasanna-khapli-489424101/
 
 Passionate about Data Analytics, AI, and building real-world data-driven applications.
