@@ -40,10 +40,17 @@ streamlit run app.py
 
 ## 🌍 Live Demo
 
+### 🚀 Launch Dashboard
+
 👉 https://amazon-sales-dashboard-ls48dc8pcujhcvehke97kg.streamlit.app/
 
-This is a deployed Streamlit web application for interactive sales analytics and AI-based forecasting.
-Users can explore trends, filter data dynamically, and view predictive insights powered by machine learning.
+This is a production-ready Streamlit web application for interactive sales analytics and AI-based forecasting.
+
+## 📸 Dashboard Preview
+<img width="2204" height="1337" alt="image" src="https://github.com/user-attachments/assets/4f1980b3-6413-4153-8256-1799aa6f4819" />
+<img width="2237" height="1381" alt="image" src="https://github.com/user-attachments/assets/2eb5a638-5ea3-4dae-94d9-d8f85ecbbf56" />
+<img width="2255" height="1350" alt="image" src="https://github.com/user-attachments/assets/c9389000-4922-48e6-bf5e-71dfe81ab023" />
+
 
 ## 💡 Author
 
