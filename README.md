@@ -1,9 +1,13 @@
 # amazon-sales-dashboard
 AI-powered Amazon Sales Dashboard using Streamlit
+
 # 📊 Amazon Sales Dashboard
+AI-powered analytics and forecasting web app built using Streamlit.
 
 ## 🚀 Overview
-This project is a dynamic Amazon Sales Dashboard built using Streamlit.
+This project is a dynamic Amazon Sales Dashboard built using Streamlit. 
+
+🎯 This project demonstrates end-to-end data analytics, visualization, and machine learning deployment in a real-world scenario.
 
 It provides:
 - Data visualization
@@ -57,6 +61,6 @@ This is a production-ready Streamlit web application for interactive sales analy
 Created by Prasanna Vijay Khapli  
 
 🔗 GitHub: https://github.com/prasannakhapli-bit/  
-🔗 LinkedIn: linkedin.com/in/prasanna-khapli-489424101 
+🔗 LinkedIn: [Prasanna Khapli](https://linkedin.com/in/prasanna-khapli-489424101)
 
 Passionate about Data Analytics, AI, and building real-world data-driven applications.
